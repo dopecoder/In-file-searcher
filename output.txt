@@ -1,0 +1,4 @@
+./test_folder/test_folder_2/file5.txt
+./test_folder/test_folder_2/file6.txt
+./test_folder/test_folder_1/file4.txt
+./test_folder/test_folder_1/file3.txt
